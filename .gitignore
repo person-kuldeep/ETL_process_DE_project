@@ -1,0 +1,26 @@
+# Project-specific
+/m_01_concept_learning/etl_intro/source_files/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments and environment files
+venv/
+.venv/
+.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archives (optional)
+*.zip
